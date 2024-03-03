@@ -1,0 +1,22 @@
+{
+  "name": "more-tea-no-coffee",
+  "version": "1.0.0",
+  "description": "New app for demo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tatochka27/more-tea-no-coffee.git"
+  },
+  "dependencies": {
+    "my-hot-tea": "1.0.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tatochka27/more-tea-no-coffee/issues"
+  },
+  "homepage": "https://github.com/tatochka27/more-tea-no-coffee#readme"
+}
